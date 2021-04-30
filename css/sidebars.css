@@ -1,0 +1,21 @@
+#exampleModal {
+  width: 300px;
+}
+
+#modal-content2{
+  width: 300px;
+}
+#list-group-item:hover {
+  background-color: #6675df!important;
+  color: white;
+  
+
+}
+
+.alert{
+  margin-left: 100px;
+  margin-top: 40px;
+  width: 450px;
+  height: 15vh;
+}
+
